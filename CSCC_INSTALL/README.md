@@ -12,7 +12,9 @@ Introduction
 * cs-account.ps1
     * 新增 local standard user: pcuser/cscs
 * cs-directory.ps1
+    * non-implement 
 * cs-firewall.ps1
+    * non-implement 
 * cs-misc.ps1
     * 隱藏登入使用者帳號
     * 關閉離線檔案
